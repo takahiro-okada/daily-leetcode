@@ -15,6 +15,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/takahiro-okada/daily-leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/takahiro-okada/daily-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -28,4 +29,12 @@
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/takahiro-okada/daily-leetcode/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/takahiro-okada/daily-leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/takahiro-okada/daily-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
