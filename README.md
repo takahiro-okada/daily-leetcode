@@ -45,4 +45,12 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/takahiro-okada/daily-leetcode/tree/master/0206-reverse-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/takahiro-okada/daily-leetcode/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/takahiro-okada/daily-leetcode/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
